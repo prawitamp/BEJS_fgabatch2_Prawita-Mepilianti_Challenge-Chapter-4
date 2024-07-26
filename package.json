@@ -1,0 +1,20 @@
+{
+  "name": "challenge-chapter-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^5.17.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.17.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
